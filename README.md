@@ -4,7 +4,7 @@
 **Tools:** Python (pandas, scikit-learn, matplotlib, seaborn) · SQL (sqlite3) · Plotly.js · GitHub Pages
 **Dataset:** Telco Customer Churn — [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) (7,043 records)
 **Model accuracy:** 82% | AUC-ROC: 0.86
-**Live Dashboard:** [🔗 View Live Interactive Dashboard](https://mayankjoshiii-coder.github.io/customer-churn-prediction/)
+**Live Dashboard:** [🔗 View Live Interactive Dashboard](https://mayankjoshiii.github.io/customer-churn-prediction/)
 
 
 ---
